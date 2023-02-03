@@ -336,7 +336,7 @@
     width: 100%;
     justify-content: center;
 }
-.newsletter input {
+ input {
     width: 100%;
     padding: 15px 25px;
     height: 60px;
@@ -992,23 +992,8 @@ footer .footer-text a {
 }
 .newsletter input {
     width: 80%;
-    padding: 15px 25px;
-    height: 60px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border: none;
-    outline: none;
 }
 .btn1{
-    white-space: nowrap;
-    padding: 15px 250px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border: none;
-    background: white;
-    color:  rgb(32, 174, 251);
-    font-weight: 500;
-    transition: 0.5s ease-in-out;
-    border-left: 1px solid  rgb(32, 174, 251);
+    padding: 15px 25px;
 }
 } 
