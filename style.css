@@ -213,7 +213,7 @@
 
 /* testimonial */
 .testimonial {
-    width: 100%;
+    width: calc(100%3);
     height: auto;
     background-color: gray;
     text-align: center;
